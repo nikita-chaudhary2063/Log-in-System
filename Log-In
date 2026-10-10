@@ -1,0 +1,15 @@
+# Simple Login System
+
+A beginner-friendly Python project that allows users to register with a username and password, and then log in.  
+It runs in the terminal and uses a dictionary to store user credentials.
+
+## Features
+- Register new users
+- Login with username and password
+- Prevent duplicate usernames
+- Simple and interactive
+
+## How to Run
+1. Install Python
+2. Save the code in a file named login_system.py
+3. Run with: python login_system.py
